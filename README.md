@@ -10,6 +10,10 @@
 
 ## Sobre mim
 
+## ⭐ Projeto favorito
+
+[Minhas Receitas](https://github.com/gilmarhenriqueferreirafi-wq/minhas-receitas-android) — aplicativo Android local para cadastrar, organizar e preparar receitas, com fotos, favoritos, categorias, temporizadores e modo de cozinhar.
+
 Sou desenvolvedor em aprendizado contínuo. Gosto de construir projetos práticos,
 experimentos visuais, automações, jogos para a web e ferramentas que me ajudam a
 entender melhor cada tecnologia.
