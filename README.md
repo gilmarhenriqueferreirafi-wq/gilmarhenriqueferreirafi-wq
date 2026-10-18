@@ -14,13 +14,15 @@ Sou desenvolvedor em aprendizado contínuo e gosto de transformar ideias em proj
 
 `Python` · `JavaScript` · `HTML` · `CSS` · `Android` · `Git` · `GitHub`
 
-## Projetos públicos
+## Meus projetos favoritos
 
-- [Bar da Curva](https://github.com/gilmarhenriqueferreirafi-wq/bar-da-curva)
-- [Coração em Vários Idiomas](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas)
-- [ARG WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB)
-- [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente)
-- [Bateria](https://github.com/gilmarhenriqueferreirafi-wq/bateria)
+- [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) — jogo narrativo e experiência de investigação na web.
+- [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) — cartão interativo personalizável por URL.
+- [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) — experimento com duas redes neurais jogando xadrez entre si. *(privado em revisão)*
+- [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) — projeto web para exibição ao vivo. *(privado em revisão)*
+- [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) — gerador experimental de QR Code Pix com dados fictícios.
+- [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) — projeto web experimental.
+- [YouTube Clock Extension](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) — extensão de navegador. *(privado em revisão)*
 
 ## Em construção
 
