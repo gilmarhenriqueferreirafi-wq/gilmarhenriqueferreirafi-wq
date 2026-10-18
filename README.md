@@ -1,32 +1,60 @@
-# Olá, eu sou Gilmar Henrique Ferreira Filho 👋
+<div align="center">
 
-Desenvolvedor em aprendizado contínuo, criando projetos práticos, experiências para a web, automações e experimentos com inteligência artificial.
+# Gilmar Henrique Ferreira Filho 👋
 
-## Em destaque
+### Criando projetos para aprender, testar ideias e transformar protótipos em experiências reais.
 
-| Projeto | Sobre |
-| --- | --- |
-| [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) | Jogo ARG com enigmas, pistas e narrativa interativa na web. |
-| [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) | Página interativa personalizável por URL. |
-| [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) | Duas redes neurais jogando xadrez entre si; projeto em desenvolvimento. |
-| [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) | Experimento para exibição e gerenciamento de conteúdo ao vivo. |
-| [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) | Laboratório de QR Code Pix com dados fictícios. |
-| [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) | Experimento web sobre agentes de inteligência artificial. |
-| [YouTube Clock Extension](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) | Extensão de navegador que adiciona um relógio ao YouTube. |
-| [Coração em Vários Idiomas](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) | Site interativo com mensagens, cores e idiomas personalizáveis. |
+[![GitHub](https://img.shields.io/badge/GitHub-gilmarhenriqueferreirafi--wq-181717?style=for-the-badge&logo=github)](https://github.com/gilmarhenriqueferreirafi-wq)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+</div>
+
+## Sobre mim
+
+Sou desenvolvedor em aprendizado contínuo. Gosto de construir projetos práticos,
+experimentos visuais, automações, jogos para a web e ferramentas que me ajudam a
+entender melhor cada tecnologia.
+
+Meu jeito de aprender é colocar a ideia para funcionar, testar os limites e ir
+melhorando o projeto aos poucos.
+
+## Projetos que representam meu trabalho
+
+| Projeto | Tipo | Descrição |
+| --- | --- | --- |
+| [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) | Jogo web | ARG com enigmas, pistas e narrativa interativa. |
+| [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) | Website | Página interativa personalizável por URL. |
+| [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) | IA | Duas redes neurais jogando xadrez entre si. |
+| [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) | Web | Experimento para exibição de conteúdo ao vivo. |
+| [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) | Ferramenta | Laboratório de QR Code Pix com dados fictícios. |
+| [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) | IA | Experimento web sobre agentes de inteligência artificial. |
+| [YouTube Clock](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) | Extensão | Relógio integrado ao YouTube. |
+| [Coração](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) | Website | Mensagens, cores e idiomas personalizáveis. |
+
+## Laboratórios e ferramentas
+
+- [Efeito](https://github.com/gilmarhenriqueferreirafi-wq/efeito) — efeitos holográficos digitais com Fourier e franjas de Gabor.
+- [Problema](https://github.com/gilmarhenriqueferreirafi-wq/problema) — verificação de links e redirecionamentos.
+- [Teste OAuth](https://github.com/gilmarhenriqueferreirafi-wq/teste-oauth) — laboratório de autenticação para APIs.
 
 ## Tecnologias
 
-`Python` · `JavaScript` · `HTML` · `CSS` · `Android` · `Git` · `GitHub`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Outros projetos
+## Em construção
 
-- [Efeito](https://github.com/gilmarhenriqueferreirafi-wq/efeito) — simulação de efeitos holográficos digitais com Fourier e franjas de Gabor.
-- [Problema](https://github.com/gilmarhenriqueferreirafi-wq/problema) — verificador de links de download e redirecionamentos.
-- [Teste OAuth](https://github.com/gilmarhenriqueferreirafi-wq/teste-oauth) — laboratório de autenticação para APIs de vários provedores.
+Meus projetos continuam evoluindo conforme aprendo novas técnicas. Alguns são
+experimentos, outros viram ferramentas completas — todos fazem parte do meu
+processo de criação.
 
-## Sobre este perfil
+<div align="center">
 
-Gosto de aprender construindo: testar ideias, explorar tecnologias e transformar protótipos em ferramentas úteis. Alguns projetos continuam em evolução e recebem melhorias conforme são revisados.
+**Construir · testar · aprender · melhorar**
 
-📫 **GitHub:** [@gilmarhenriqueferreirafi-wq](https://github.com/gilmarhenriqueferreirafi-wq)
+</div>
