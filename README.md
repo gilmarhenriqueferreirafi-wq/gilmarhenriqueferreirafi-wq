@@ -5,8 +5,6 @@
 ### Criando projetos para aprender, testar ideias e transformar protótipos em experiências reais.
 
 [![GitHub](https://img.shields.io/badge/GitHub-gilmarhenriqueferreirafi--wq-181717?style=for-the-badge&logo=github)](https://github.com/gilmarhenriqueferreirafi-wq)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 </div>
 
@@ -23,9 +21,9 @@ melhorando o projeto aos poucos.
 
 | Projeto | Tipo | Descrição |
 | --- | --- | --- |
-| [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) | Jogo web | ARG com enigmas, pistas e narrativa interativa. |
-| [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) | Website | Página interativa personalizável por URL. |
-| [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) | IA | Duas redes neurais jogando xadrez entre si. |
+| [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) · [jogar](https://gilmarhenriqueferreirafi-wq.github.io/ARG_WEB/) | Jogo web | ARG com enigmas, pistas e narrativa interativa. |
+| [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) · [abrir](https://gilmarhenriqueferreirafi-wq.github.io/aniversario/) | Website | Página interativa personalizável por URL. |
+| [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) | IA · em desenvolvimento | Duas redes neurais jogando xadrez entre si. |
 | [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) | Web | Experimento para exibição de conteúdo ao vivo. |
 | [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) | Ferramenta | Laboratório de QR Code Pix com dados fictícios. |
 | [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) | IA | Experimento web sobre agentes de inteligência artificial. |
