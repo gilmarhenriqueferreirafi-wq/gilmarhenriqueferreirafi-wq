@@ -10,10 +10,6 @@
 
 ## Sobre mim
 
-## ⭐ Projeto favorito
-
-[Minhas Receitas](https://github.com/gilmarhenriqueferreirafi-wq/minhas-receitas-android) — aplicativo Android local para cadastrar, organizar e preparar receitas, com fotos, favoritos, categorias, temporizadores e modo de cozinhar.
-
 Sou desenvolvedor em aprendizado contínuo. Gosto de construir projetos práticos,
 experimentos visuais, automações, jogos para a web e ferramentas que me ajudam a
 entender melhor cada tecnologia.
@@ -33,6 +29,8 @@ melhorando o projeto aos poucos.
 | [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) | IA | Experimento web sobre agentes de inteligência artificial. |
 | [YouTube Clock](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) | Extensão | Relógio integrado ao YouTube. |
 | [Coração](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) | Website | Mensagens, cores e idiomas personalizáveis. |
+| [Minhas Receitas](https://github.com/gilmarhenriqueferreirafi-wq/minhas-receitas-android) | app | organizacao de receitas.|
+
 
 ## Laboratórios e ferramentas
 
