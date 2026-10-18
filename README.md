@@ -21,6 +21,7 @@ Sou desenvolvedor em aprendizado contínuo e gosto de transformar ideias em proj
 - [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) — experimento em desenvolvimento com duas redes neurais jogando xadrez entre si. *(privado em revisão)*
 - [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) — projeto web para exibição ao vivo. *(privado em revisão)*
 - [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) — gerador experimental de QR Code Pix com dados fictícios.
+- [Coração em Vários Idiomas](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) — site interativo com mensagens personalizadas por URL.
 - [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) — projeto web experimental.
 - [YouTube Clock Extension](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) — extensão de navegador. *(privado em revisão)*
 
