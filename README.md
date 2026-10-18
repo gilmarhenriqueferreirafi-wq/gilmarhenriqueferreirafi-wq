@@ -1,32 +1,32 @@
 # Olá, eu sou Gilmar Henrique Ferreira Filho 👋
 
-Sou desenvolvedor em aprendizado contínuo e gosto de transformar ideias em projetos práticos, automações e experiências para a web.
+Desenvolvedor em aprendizado contínuo, criando projetos práticos, experiências para a web, automações e experimentos com inteligência artificial.
 
-## O que eu faço
+## Em destaque
 
-- Extensões para navegadores
-- Projetos em Python e automação
-- Sites e interfaces web
-- Aplicativos Android
-- Experimentos com jogos, ferramentas e inteligência artificial
+| Projeto | Sobre |
+| --- | --- |
+| [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) | Jogo ARG com enigmas, pistas e narrativa interativa na web. |
+| [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) | Página interativa personalizável por URL. |
+| [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) | Duas redes neurais jogando xadrez entre si; projeto em desenvolvimento. |
+| [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) | Experimento para exibição e gerenciamento de conteúdo ao vivo. |
+| [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) | Laboratório de QR Code Pix com dados fictícios. |
+| [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) | Experimento web sobre agentes de inteligência artificial. |
+| [YouTube Clock Extension](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) | Extensão de navegador que adiciona um relógio ao YouTube. |
+| [Coração em Vários Idiomas](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) | Site interativo com mensagens, cores e idiomas personalizáveis. |
 
 ## Tecnologias
 
 `Python` · `JavaScript` · `HTML` · `CSS` · `Android` · `Git` · `GitHub`
 
-## Meus projetos favoritos
+## Outros projetos
 
-- [ARG_WEB](https://github.com/gilmarhenriqueferreirafi-wq/ARG_WEB) — jogo narrativo e experiência de investigação na web.
-- [Aniversário](https://github.com/gilmarhenriqueferreirafi-wq/aniversario) — cartão interativo personalizável por URL.
-- [Xadrez](https://github.com/gilmarhenriqueferreirafi-wq/xadrez) — experimento em desenvolvimento com duas redes neurais jogando xadrez entre si. *(privado em revisão)*
-- [Tela Live](https://github.com/gilmarhenriqueferreirafi-wq/tela-live) — projeto web para exibição ao vivo. *(privado em revisão)*
-- [Pix Teste](https://github.com/gilmarhenriqueferreirafi-wq/pix-teste) — gerador experimental de QR Code Pix com dados fictícios.
-- [Coração em Vários Idiomas](https://github.com/gilmarhenriqueferreirafi-wq/coracao-em-varios-idiomas) — site interativo com mensagens personalizadas por URL.
-- [Site Agente](https://github.com/gilmarhenriqueferreirafi-wq/site-agente) — projeto web experimental.
-- [YouTube Clock Extension](https://github.com/gilmarhenriqueferreirafi-wq/youtube-clock-extension) — extensão de navegador. *(privado em revisão)*
+- [Efeito](https://github.com/gilmarhenriqueferreirafi-wq/efeito) — simulação de efeitos holográficos digitais com Fourier e franjas de Gabor.
+- [Problema](https://github.com/gilmarhenriqueferreirafi-wq/problema) — verificador de links de download e redirecionamentos.
+- [Teste OAuth](https://github.com/gilmarhenriqueferreirafi-wq/teste-oauth) — laboratório de autenticação para APIs de vários provedores.
 
-## Em construção
+## Sobre este perfil
 
-Tenho vários projetos experimentais em evolução. Meu foco é aprender, testar ideias e transformar protótipos em ferramentas úteis. Alguns projetos ainda estão privados enquanto passam por revisão.
+Gosto de aprender construindo: testar ideias, explorar tecnologias e transformar protótipos em ferramentas úteis. Alguns projetos continuam em evolução e recebem melhorias conforme são revisados.
 
 📫 **GitHub:** [@gilmarhenriqueferreirafi-wq](https://github.com/gilmarhenriqueferreirafi-wq)
